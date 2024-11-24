@@ -8,7 +8,7 @@ Proyek ini bertujuan untuk melakukan identifikasi outlier pada dataset yang beri
 - **IQR** (Interquartile Range) untuk mendeteksi nilai-nilai yang terletak jauh dari distribusi normal data.
 
 ## Dataset
-Dataset yang digunakan dalam proyek ini adalah **height_weight.csv**, yang berisi informasi tentang tinggi badan (Height) dan berat badan (Weight) beberapa individu.
+Dataset yang digunakan dalam proyek ini adalah **height_weight.csv**, yang berisi informasi tentang tinggi badan (Height) dan berat badan (Weight) beberapa individu. 
 
 ### Contoh Data:
 | ID  | Height | Weight |
@@ -28,6 +28,8 @@ Dataset yang digunakan dalam proyek ini adalah **height_weight.csv**, yang beris
 | 13  | 210    | 100    |
 | 14  | 185    | 80     |
 | 15  | 168    | 65     |
+
+Dataset by Alif Dio A.
 
 ## Instalasi
 Untuk menjalankan proyek ini, pastikan Anda sudah menginstal **Jupyter Notebook** dan dependensi berikut:
