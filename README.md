@@ -36,7 +36,7 @@ Untuk menjalankan proyek ini, pastikan Anda sudah menginstal **Jupyter Notebook*
 
 1. **Clone repositori ini**:
     ```bash
-    git clone https://github.com/username/nama-proyek.git
+    git clone https://github.com/dhyo-detallboy/Identifikasi-Outlier-Use-Boxplot-IQR-.git
     ```
 
 2. **Instal dependensi**:
